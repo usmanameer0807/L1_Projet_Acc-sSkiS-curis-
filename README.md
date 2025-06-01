@@ -63,5 +63,3 @@ Actions locales : LED / Buzzer / OLED / Barrière
 
 - Intégration d’un **véritable lecteur RFID**.
 - Renforcement de la sécurité.
-- Ajout d’une interface graphique de gestion des utilisateurs.
-
